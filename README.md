@@ -4,6 +4,7 @@
 
 ## 内容列表	
 
+- 00-认识transformers.ipynb：Huggingface `tokenizer；model`
 - 01-sentiment-analysis-with-bert：情感分类 `分类任务`
 - 02-Guide to HuggingFace Schedulers & Differential LRs：学习率指南 `使用技巧`
 - 03-企业隐患huggingface baseline:企业隐患文本分类 `分类任务`
@@ -13,6 +14,7 @@
 - 07-RoBERTa on NSP using Trainer：NSP预训练 `预训练-Next Sentence Prediction`
 - 08-utilizing-transformer-representations-efficiently.ipynb：不同层的使用 `微调-layers`
 - 09-RoBERTa Base Fine-Tuning with Better Training Strategies：不同学习率使用 `微调-learning rate`
+- 10-pytorch-roberta-pretrain.ipynb：预训练模型继续训练 `预训练-ITPT`
 
 ## 参考资料
 
