@@ -15,6 +15,7 @@
 - 08-utilizing-transformer-representations-efficiently.ipynb：不同层的使用 `微调-layers`
 - 09-RoBERTa Base Fine-Tuning with Better Training Strategies：不同学习率使用 `微调-learning rate`
 - 10-pytorch-roberta-pretrain.ipynb：预训练模型继续训练 `预训练-ITPT`
+- 11-best-transformer-representations.ipynb：不同层的使用 `微调-layers`
 
 ## 参考资料
 
