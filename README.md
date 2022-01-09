@@ -16,6 +16,8 @@
 - 09-RoBERTa Base Fine-Tuning with Better Training Strategies：不同学习率使用 `微调-learning rate`
 - 10-pytorch-roberta-pretrain.ipynb：预训练模型继续训练 `预训练-ITPT`
 - 11-best-transformer-representations.ipynb：不同层的使用 `微调-layers`
+- 12-How to Fine-Tune BERT for Text Classification.ipynb：文本分类上分技巧：`论文`
+- 13-Custom_Named_Entity_Recognition_with_BERT.ipynb：命名实体识别：`NER`
 
 ## 参考资料
 
