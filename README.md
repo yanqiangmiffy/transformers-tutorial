@@ -18,6 +18,10 @@
 - 11-best-transformer-representations.ipynb：不同层的使用 `微调-layers`
 - 12-How to Fine-Tune BERT for Text Classification.ipynb：文本分类上分技巧：`论文`
 - 13-Custom_Named_Entity_Recognition_with_BERT.ipynb：命名实体识别：`NER`
+- 14-Multiple_choice_on_SWAG：多项选择：`MRC`
+- 15-Translation.ipynb：机器翻译：`NMT`
+- 16-Summarization.ipynb：文本摘要：`text summary`
+- 17-bertviz_examples.ipynb：Bert可视化：`Bert可视化`
 
 ## 参考资料
 
