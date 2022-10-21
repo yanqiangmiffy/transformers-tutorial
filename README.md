@@ -22,7 +22,7 @@
 - 15-Translation.ipynb：机器翻译：`NMT`
 - 16-Summarization.ipynb：文本摘要：`text summary`
 - 17-bertviz_examples.ipynb：Bert可视化：`Bert可视化`
-
+- 18-IndicBART and IndicNLG.ipynb：Bart继续预训练：`Bart继续预训练`
 ## 参考资料
 
 - https://github.com/NadirEM/nlp-notebooks
